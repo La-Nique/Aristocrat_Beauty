@@ -1,9 +1,7 @@
-# Aristocrat_Beauty
+# Aristocrat Beauty
+#### e-Commerce | UI/UX Design
+###### Designed + Developed by Lanique Lynn Peterson
 <!-- 
-# Welcome to Valognan City
-#### Project One: UI/UX Design
-###### Developed by Lanique Lynn Peterson
-
 [<img width="641" alt="Valognan City Homepage" src="https://raw.githubusercontent.com/La-Nique/CyberPunk_Reality/main/src/components/pudding/home-ss.png">](https://github.com/La-Nique)
 
 ### Synposis
